@@ -9,6 +9,7 @@ body {
   background: url("./image.jpg");
   height: 100vh;
   overflow: hidden;
+  background-size: cover;
 }
 
 h1 {
